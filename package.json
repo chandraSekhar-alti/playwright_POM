@@ -1,0 +1,23 @@
+{
+  "name": "cotiviti",
+  "version": "1.0.0",
+  "description": "This is a sample automation script for the Cotiviti application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "reportsGenerate": "npx allure generate ./allure-results --clean",
+    "reportsOpen": "npx allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.4",
+    "allure-commandline": "^2.24.1",
+    "allure-playwright": "^2.9.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}

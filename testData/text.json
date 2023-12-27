@@ -1,0 +1,167 @@
+{
+  "CotivitiHeaders": [
+    {
+      "About": [
+        {
+          "text": "About Us"
+        },
+        {
+          "text": "Vision and Mission"
+        },
+        {
+          "text": "Vision and Mission"
+        },
+        {
+          "text": "Client Pledge"
+        },
+        {
+          "text": "Leadership Team"
+        },
+        {
+          "text": "Cotiviti Cares"
+        },
+        {
+          "text": "Associations and Certifications"
+        },
+        {
+          "text": "Investor Relations"
+        }
+      ]
+    },
+    {
+      "Markets": [
+        {
+          "text": "Payers"
+        },
+        {
+          "text": "Government"
+        },
+        {
+          "text": "Healthcare Providers"
+        },
+        {
+          "text": "Employers, Brokers and TPAs"
+        },
+        {
+          "text": "Retailers"
+        }
+      ]
+    },
+    {
+      "Solutions": {
+        "Payment Accuracy": [
+          "Payment Policy Management",
+          "Coding Validation",
+          "Dental Claim Accuracy",
+          "Claim Pattern Review",
+          "Claim Pattern Review",
+          "Clinical Chart Validation",
+          "COB Validation",
+          "Data Mining",
+          "Contract Compliance"
+        ],
+        "Risk Adjustment": [
+          "Suspect Analytics",
+          "Medical Record Retrieval",
+          "Medical Record Coding"
+        ],
+        "Quality and Performance": [
+          "Quality Intelligence",
+          "Star Intelligence",
+          "Medical Record Retrieval",
+          "Medical Record Abstraction",
+          "Medical Intelligence",
+          "DxCG Intelligence",
+          "Network Intelligence"
+        ],
+        "Consumer Engagement": [
+          "Eliza Member Engagement",
+          "Cotiviti Retail"
+        ]
+      }
+    },
+    {
+      "Knowledge Bank": [
+        {
+          "text": "Resources"
+        },
+        {
+          "text": "Blog "
+        },
+        {
+          "text": "Events"
+        },
+        {
+          "text": "Press Releases"
+        },
+        {
+          "text": "Media Coverage"
+        }
+      ]
+    },
+    {
+      "Careers": [
+        {
+          "text": "US Job Postings"
+        },
+        {
+          "text": "International Job Postings"
+        },
+        {
+          "text": "Culture and Values"
+        },
+        {
+          "text": "Diversity"
+        },
+        {
+          "text": "Benefits"
+        },
+        {
+          "text": "Career Development"
+        }
+      ]
+    },
+    {
+      "Contact": [
+        {
+          "text": "MyCotiviti Portal"
+        },
+        {
+          "text": "Our Headquarters"
+        },
+        {
+          "text": "Career Opportunities"
+        },
+        {
+          "text": "Bondholder Information"
+        }
+      ]
+    }
+  ],
+  "formInputTitles": [
+    "First name",
+    "Last name",
+    "Work Email",
+    "Job level",
+    "Job Title",
+    "Are you interested in a Demo?"
+  ],
+  "formInputFiledsData": [
+    "firstname",
+    "lastname",
+    "job_level",
+    "email",
+    "jobtitle",
+    "are_you_interested_in_a_demo_"
+  ],
+  "clientCenterCardsText": [
+    "CotivitiConnect",
+    "Medical Record Retrieval",
+    "Network Intelligence Risk-Readiness® Platform",
+    "Network Intelligence U",
+    "Cotiviti Retail Connect",
+    "Audit Link",
+    "Risk Adjustment Solutions",
+    "MyCotiviti"
+  ]
+}

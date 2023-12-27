@@ -1,0 +1,18 @@
+Category-----------------------> : About
+-=========== About Us
+-=========== Vision and Mission
+-=========== Vision and Mission
+-=========== Client Pledge
+-=========== Leadership Team
+-=========== Cotiviti Cares
+-=========== Associations and Certifications
+-=========== Investor Relations
+Category-----------------------> : Markets
+-=========== Payers
+-=========== Government
+-=========== Healthcare Providers
+-=========== Employers, Brokers and TPAs
+-=========== Retailers
+Category-----------------------> : Solutions
+Sub-Category +++++++++++++++++++++++++: Payment Accuracy
+--@@@@@@@@@@@@@@@@@@@@@@@@ Payment Policy Management

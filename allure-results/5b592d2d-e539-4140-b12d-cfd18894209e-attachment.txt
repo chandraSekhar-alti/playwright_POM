@@ -1,0 +1,9 @@
+1
+2
+3
+Locator@//span[text()='First name']
+Locator@//span[text()='Last name']
+Locator@//span[text()='Work Email']
+Locator@//span[text()='Job level']
+Locator@//span[text()='Job Title']
+Locator@//span[text()='Are you interested in a Demo?']
