@@ -8,7 +8,6 @@ exports.SocialMediaAccounts = class SocialMediaAccounts {
         this.cotivitiLinkedinIcon = page.locator('//a[@title="LinkedIn"]')
         this.cotivitiFaceBookIcon = page.locator('//a[@title="Facebook"]');
         this.cotivitiBlogsIcon = page.locator('//a[@title="Cotiviti Blog"]');
-
     }
 
     async clickOnYoutubeIcon() {

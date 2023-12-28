@@ -135,6 +135,3 @@ test('Verifying the Forgot Password button functionality', async ({page}) => {
     await expect(cotivitiforgotPasswordPage.emailSentMsg).toBeVisible();
     await expect(cotivitiforgotPasswordPage.emailSentMsg).toHaveText("Please check your email to reset your password.");
 });
-
-
-
